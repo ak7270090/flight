@@ -7,7 +7,7 @@
     "dev": "npx nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "author": "Keshav Carpenter",
+  "author": "Aman Kumar",
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.10.3",
